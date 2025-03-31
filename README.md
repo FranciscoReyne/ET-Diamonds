@@ -1,7 +1,6 @@
 # ET-Diamonds
 
-Lunar Waste Valorization System for Economic Resources and Tunnel 
-Excavation 
+## Lunar Waste Valorization System for Economic Resources and Tunnel Excavation 
 
 
 In this challenge, my project aims to develop a waste valorization system to generate 
